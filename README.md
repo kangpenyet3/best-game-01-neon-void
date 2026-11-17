@@ -1,4 +1,7 @@
 # NEON VOID — Arena
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/kangpenyet3/best-game-01-neon-void/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/kangpenyet3/best-game-01-neon-void/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
 
 A neon arena shooter for the desktop browser. Survive escalating waves in a sealed arena,
 chain kills to raise your combo multiplier, grab cores for Rapid Fire / Shield / Nova,
